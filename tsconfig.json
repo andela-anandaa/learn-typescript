@@ -1,0 +1,8 @@
+{
+    "compileOnSave": true,
+    "outFile": "/built/tsc.js",
+    "sourceMap": true,
+    "compilerOptions": {
+        "noImplicitAny" : true
+    }
+}
